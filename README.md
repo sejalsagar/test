@@ -12,4 +12,4 @@ Notes::
 2. To run the main app please use the below command to start the H2 db in server mode for persistence
 java -jar h2-1.4.196.jar -baseDir ./tmp/h2dbs
 Once the project is built using maven, h2-1.4.196.jar can be found at C:\Users\[username]\.m2\repository\com\h2database\h2\1.4.196
-3. The coverage reports can be found at \test\target\site\jacoco
+3. The coverage reports can be found at <project_directory>\test\target\site\jacoco
